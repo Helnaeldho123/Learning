@@ -28,8 +28,6 @@ public class pratice {
         
        
 		
-		//d.findElement(By.xpath("//*[@id=\"spree_user_email\"]/html/body/div[4]/div/div[1]/div/div[2]/div[2]/form/input[3]")).click();
-        //d.findElement(By.id("spree_user_email")).sendKeys("Group_4_Alpha");
 		
 	}
 }
